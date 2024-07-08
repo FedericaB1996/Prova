@@ -1,0 +1,30 @@
+{
+  "2014": {
+    "Fantasy": 204502,
+    "Drama": 159071,
+    "Romance": 103967,
+    "Mystery": 99964,
+    "Science": 96345
+  },
+  "2015": {
+    "Fantasy": 180351,
+    "Drama": 170581,
+    "Romance": 80013,
+    "Mystery": 94101,
+    "Science": 45055
+  },
+  "2016": {
+    "Fantasy": 160281,
+    "Drama": 180256,
+    "Romance": 118033,
+    "Mystery": 90660,
+    "Science": 34014
+  },
+  "2017": {
+    "Fantasy": 150895,
+    "Drama": 143027,
+    "Romance": 108912,
+    "Mystery": 90109,
+    "Science": 39401
+  }
+}
